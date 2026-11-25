@@ -1,6 +1,8 @@
 # Monday Morning Punchlines
 
-[![make.fun bounty](https://img.shields.io/badge/make.fun-bounty-blue)](https://make.fun/c/u-gentle-badger-68-monday-morning-punchlines-709645dc)
+[![make.fun · u-gentle-badger-68-monday-morning-punchlines-709645dc](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-monday-morning-punchlines-709645dc)
+[![rank](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc/ifulchina-ops/monday-morning-punchlines/rank.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-monday-morning-punchlines-709645dc)
+[![reward](https://make.fun/badge/u-gentle-badger-68-monday-morning-punchlines-709645dc/ifulchina-ops/monday-morning-punchlines/reward.svg)](https://make.fun/bounty/u-gentle-badger-68-monday-morning-punchlines-709645dc?utm_source=github&utm_medium=readme&utm_campaign=u-gentle-badger-68-monday-morning-punchlines-709645dc)
 [![License: 0BSD](https://img.shields.io/badge/License-0BSD-green.svg)](LICENSE)
 [![Entry: 160/200 chars](https://img.shields.io/badge/entry-160%2F200%20chars-brightgreen.svg)](main.ts)
 
